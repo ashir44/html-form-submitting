@@ -5,7 +5,7 @@ Tutorial Page : https://www.npmjs.com/package/html-form-send-email-via-google-sc
 for adding form result to google sheet..
 
 © 2021 GitHub, Inc..
-.
+
 
 
 
